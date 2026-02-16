@@ -58,9 +58,9 @@ Developing fact and dimension tables optimized for analytical performance.
 
 Creating SQL-based reports and dashboards to generate actionable insights.
 
-### Skills Demonstrated
+## Skills Demonstrated
 
-## This repository is ideal for showcasing expertise in:
+### This repository is ideal for showcasing expertise in:
 
 - SQL Development
 
